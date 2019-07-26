@@ -1,4 +1,6 @@
-#define motor_PWM 38# define motor_Clockwise 36# define motor_Counterclockwise 34
+#define motor_PWM 38
+# define motor_Clockwise 36
+# define motor_Counterclockwise 34
 
 int pot = A0;
 int gameNotes[3] = {
